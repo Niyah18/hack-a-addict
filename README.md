@@ -1,4 +1,4 @@
-# trial
+# apptrial
 
 A new Flutter project.
 
